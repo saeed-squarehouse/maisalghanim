@@ -1,0 +1,18 @@
+[
+    {
+        "menuName": "Breakfast",
+        "menuImage" : "menu-1.jpeg"
+    },
+    {
+        "menuName": "Lunch",
+        "menuImage" : "menu-2.jpeg"
+    },
+    {
+        "menuName": "Soup",
+        "menuImage" : "menu-3.jpeg"
+    },
+    {
+        "menuName": "Dinner",
+        "menuImage" : "menu-4.jpeg"
+    }
+]
