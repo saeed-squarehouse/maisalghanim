@@ -13,11 +13,11 @@ class _HomePageState extends State<HomePage> {
   int selectedIndex = 0;
 
   List<Map> showMenu = [
-    {"menuId": 1, "menuName": "Breakfast", "menuImage": "menu-1.jpeg"},
-    {"menuId": 2, "menuName": "Lunch", "menuImage": "menu-2.jpeg"},
-    {"menuId": 3, "menuName": "Soup", "menuImage": "menu-3.jpeg"},
-    {"menuId": 4, "menuName": "Dinner", "menuImage": "menu-4.jpeg"},
-    {"menuId": 5, "menuName": "Colddrink", "menuImage": "menu-1.jpeg"},
+    {"menuId": 0, "menuName": "Breakfast", "menuImage": "menu-1.jpeg"},
+    {"menuId": 1, "menuName": "Lunch", "menuImage": "menu-2.jpeg"},
+    {"menuId": 2, "menuName": "Soup", "menuImage": "menu-3.jpeg"},
+    {"menuId": 3, "menuName": "Dinner", "menuImage": "menu-4.jpeg"},
+    {"menuId": 4, "menuName": "Colddrink", "menuImage": "menu-1.jpeg"},
   ];
 
   List<Map> menuItem = [
